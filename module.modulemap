@@ -1,0 +1,4 @@
+module CFontConfig [system] {
+    header "module.h"
+    export *
+}
